@@ -1,0 +1,10 @@
+{
+	"url":"http://export.arxiv.org/api/query",
+    "query":{
+    "search_query": "autogen",
+    "sortBy": "submittedDate",
+    "sortOrder": "descending",
+    "max_results": 3,
+    "start": 0,
+    "submittedDate": "2024-09-01"}
+}
